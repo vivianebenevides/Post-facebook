@@ -1,0 +1,9 @@
+Examen pratique #02 — Intégrer une composante « publication » à l’aide d’une méthode populaire
+Viviane da Silva
+
+
+J'ai utilisé la méthodologie CUBE.
+
+J'ai fait ce choix car pour moi la méthodologie CUBE est plus simple à utiliser, en plus de rendre le code visuellement plus propre et plus facile à comprendre.
+
+Ce que je trouve le plus plaisant, c'est le fait qu'il utilise les éléments html eux-mêmes (balises) pour configurer le CSS, au lieu de devoir créer des classes spécifiques pour chaque balise. L'utilisation de tous les outils que la technologie offre rend la méthode plus efficace, à mon avis.
